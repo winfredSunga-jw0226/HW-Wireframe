@@ -6,7 +6,7 @@ body {
   font-size : 18px;
 }
 
-header, nav {
+header, nav, footer {
   color : #777;
   background-color: #ebebeb; 
   text-align: center;
@@ -52,11 +52,6 @@ aside {
 }
 
 footer {
-  clear : left;
-  border : 1px solid;
-  padding :30px;
-  text-align : center;
-  color : #777;
-  background-color: #ebebeb; 
+  clear : left; 
 }
 
